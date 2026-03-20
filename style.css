@@ -1,0 +1,60 @@
+/* Seletor de ID */
+#mensagem {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+/* Seletor de Classe */
+.botao {
+    padding: 10px;
+    background-color: lightblue;
+}
+
+/* Seletor por herança (main p) */
+main p {
+    color: #fa89c9;
+}
+
+/* Estilo geral */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header, footer {
+    background-color: #eb9bd7;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    background: #eee;
+    padding: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: rgb(183, 17, 111);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, td, th {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+img {
+    max-width: 300px;
+    display: block;
+    margin-top: 10px;
+}
