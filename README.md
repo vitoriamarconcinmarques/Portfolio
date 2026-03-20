@@ -7,7 +7,7 @@
 - Buscando oportunidade para aprender e contribuir.
 
 ## Projetos
-- Projeto simples de site usando HTML e CSS.
+- Projeto simples de site usando HTML, CSS e JS.
 - Scripts básicos em SQL para gerenciamento de dados. (em andamento)
 
 ## Contato
