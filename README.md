@@ -8,7 +8,7 @@
 
 ## Projetos
 - Projeto simples de site usando HTML e CSS.
-- Scripts básicos em SQL para gerenciamento de dados.
+- Scripts básicos em SQL para gerenciamento de dados. (em andamento)
 
 ## Contato
 - E-mail: vitoriamarconcinmarques@gmail.com
